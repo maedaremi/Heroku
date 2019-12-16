@@ -104,11 +104,13 @@ h1, h2 {
 
 .topic-new-wrapper {
   padding-top: 120px;
+  padding-bottom: 360px;
+  background-color: #ADD8E6
 }
 
 .topic-index-wrapper {
   padding-top: 70px;
-  background-color: #fafafa;
+  background-color: #E6E6FA;
   .topic-index-single {
     background-color: #fff;
     padding-top: 20px;
@@ -140,3 +142,8 @@ h1, h2 {
   }
 }
 
+.comment-new-wrapper {
+  padding-top: 120px;
+  padding-bottom: 450px;
+  background-color: #ADD8E6
+}
